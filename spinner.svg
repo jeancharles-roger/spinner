@@ -1,0 +1,24 @@
+<svg version='1.1' baseProfile='full' xmlns='http://www.w3.org/2000/svg'>
+
+    <defs>
+        <clipPath id='clip'>
+            <circle cx='53.5mm' cy='53.5mm' r='44.5mm'/>
+        </clipPath>
+    </defs>
+    <circle cx='53.5mm' cy='53.5mm' r='43.5mm' stroke='black' fill='white'/>
+<circle cx='53.5mm' cy='53.5mm' r='9mm' stroke='black' fill='blue'/>
+<circle cx='53.5mm' cy='53.5mm' r='1mm' fill='black'/>
+<circle cx='83.5mm' cy='53.5mm' r='9mm' stroke='black' fill='white'/>
+<circle cx='83.5mm' cy='53.5mm' r='1mm' fill='black'/>
+<circle cx='83.5mm' cy='105.46152422706632mm' r='39mm' stroke='black' fill='white' clip-path='url(#clip)'/>
+<circle cx='38.50000000000001mm' cy='79.48076211353316mm' r='9mm' stroke='black' fill='white'/>
+<circle cx='38.50000000000001mm' cy='79.48076211353316mm' r='1mm' fill='black'/>
+<circle cx='-6.5mm' cy='53.50000000000001mm' r='39mm' stroke='black' fill='white' clip-path='url(#clip)'/>
+<circle cx='38.499999999999986mm' cy='27.519237886466847mm' r='9mm' stroke='black' fill='white'/>
+<circle cx='38.499999999999986mm' cy='27.519237886466847mm' r='1mm' fill='black'/>
+<circle cx='83.49999999999996mm' cy='1.5384757729336584mm' r='39mm' stroke='black' fill='white' clip-path='url(#clip)'/>
+<text x='10mm' y='7mm'>10mm</text>
+<line x1='10mm' y1='10mm' x2='20mm' y2='10mm' stroke='black'/>
+<line x1='10mm' y1='8mm' x2='10mm' y2='12mm' stroke='black'/>
+<line x1='20mm' y1='8mm' x2='20mm' y2='12mm' stroke='black'/>
+</svg>
